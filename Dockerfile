@@ -1,3 +1,6 @@
-FROM node:16
+FROM stratio/ubuntu-base:16.04
+MAINTAINER QA "qa@stratio.com"
 
-RUN ls
+ARG VERSION
+
+CMD ["tail","-f","/dev/null"]
