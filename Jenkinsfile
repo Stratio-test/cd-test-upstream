@@ -3,7 +3,7 @@
 hose {
     EMAIL = 'cd'
     FREESTYLE_BRANCHING = true
-    UPSTREAM_VERSION = '2.2.0'
+    UPSTREAM_VERSION = '0.42'
 
     DEV = { config ->
         doCompile(config)
