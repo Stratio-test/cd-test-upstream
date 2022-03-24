@@ -1,42 +1,43 @@
 # Changelog
 
-## 0.42-0.1.0 (upcoming)
+## 0.42-0.1.0 (2022-03-24)
 
 * Some weird changes
 
-## 2.2.0-0.4.2 (March 21, 2019)
+## Previous development
+
+### Branched to branch-2.2.0-0.4 (2019-03-21)
 
 * Other hotfix
 
-## 2.2.0-0.4.1 (March 20, 2019)
+### Branched to branch-2.2.0-0.4 (2019-03-20)
 
 * Added UPSTREAM_VERSION in Jenkins file
 
-## 2.2.0-0.4.0 (August 14, 2018)
+### Branched to branch-2.2.0-0.4 (2018-08-14)
 
 * Changes for version 2.2.0-0.4.0
 
-## 2.2.0-0.3.0-a478db5 (Built: May 24, 2018 | Released: May 24, 2018)
+### Branched to branch-2.2.0-0.3 (2018-05-24)
 
 * Changes for version 2.2.0-0.3.0
 
-## 2.2.0-0.2.0-b217a48 (Built: May 14, 2018 | Released: May 14, 2018)
+### Branched to branch-2.2.0-0.2 (2018-05-14)
 
 * Changes for version 2.2.0-0.2.0
 
-## 2.2.0-0.1.3-0598eba (Built: May 12, 2018 | Pre-release)
+### Branched to branch-2.2.0-0.1 (2018-05-12)
 
 * Third hotfix change
 
-## 2.2.0-0.1.2-1413985 (Built: May 11, 2018 | Pre-release)
+### Branched to branch-2.2.0-0.1 (2018-05-11)
 
 * Second hotfix change
 
-## 2.2.0-0.1.1-6a4f001 (Built: May 11, 2018 | Pre-release)
+### Branched to branch-2.2.0-0.1 (2018-05-11)
 
 * Hotfix change
 
-## 2.2.0-0.1.1-6a4f001 (Built: May 11, 2018 | Pre-release)
+### Branched to branch-2.2.0-0.1 (2018-05-11)
 
 * Dummy change
-
