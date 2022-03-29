@@ -12,6 +12,6 @@ hose {
         doPackage(config)
         doStaticAnalysis(config)
         doDeploy(config)
-	doDocker(conf: config, dockerfile: "Dockerfile.test", image: "cdtestupstreamimage0")
+	doDocker(conf: config, dockerfile: "Dockerfile.test1", image: "cdtestupstreamimage0")
     }     
 }
