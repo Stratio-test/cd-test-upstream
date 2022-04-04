@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.20.25-0.1.2 (upcoming)
+
+* Some weird changes
+
 ## 0.20.25-0.1.1 (2022-03-30)
 
 * Some weird changes
