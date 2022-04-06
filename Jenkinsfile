@@ -3,7 +3,7 @@
 hose {
     EMAIL = 'cd'
     FREESTYLE_BRANCHING = true
-    UPSTREAM_VERSION = '0.20.25'
+    UPSTREAM_VERSION = '0.42.0'
     VERSIONING_TYPE = "stratioVersion-3-3"
 
     DEV = { config ->
