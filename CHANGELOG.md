@@ -2,7 +2,7 @@
 
 ## 0.42.25-0.1.1 (upcoming)
 
-* Pending changelog
+* test
 
 ## 2.2.0-0.4.0-4ded52e (Built: August 14, 2018 | Pre-release)
 
