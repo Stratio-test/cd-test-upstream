@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.42.25-0.2.0 (upcoming)
+## 0.42.25-0.2.0 (2022-05-11)
 
 * Some weird changes
 
