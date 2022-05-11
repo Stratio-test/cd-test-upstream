@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.42.25-0.1.1 (upcoming)
+## 0.42.25-0.2.0 (upcoming)
 
 * Some weird changes
 
