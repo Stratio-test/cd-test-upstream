@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.2.0_0.1.0-0.4.4 (upcoming)
+
+* New upstream versioning type
+
 ## 2.2.0-0.4.3 (November 19, 2021)
 
 * Some weird changes
