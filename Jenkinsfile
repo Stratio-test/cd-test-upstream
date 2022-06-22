@@ -1,9 +1,9 @@
-@Library('libpipelines') _
+@Library('libpipelines@preproduction') _
 
 hose {
     EMAIL = 'cd'
-    VERSIONING_TYPE = "stratioVersion-3-3"
-    UPSTREAM_VERSION = '2.2.0_0.1.0'
+    VERSIONING_TYPE = "stratioVersion-3-3-3"
+    UPSTREAM_VERSION = '2.2.1_0.1.0'
 
     DEV = { config ->
         doCompile(config)
