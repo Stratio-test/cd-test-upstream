@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.2.0-0.1.4 (upocming)
+## 2.2.0-0.1.4 (upcoming)
 
 * Test
 * Third hotfix change
