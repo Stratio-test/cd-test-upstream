@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.42.26-0.1.1 (upcoming)
+## 0.42.26-0.1.1 (2022-06-23)
 
 * Some weird changes
 
