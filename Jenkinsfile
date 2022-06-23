@@ -7,7 +7,6 @@ hose {
     UPSTREAM_VERESION = '2.2.0'
 
     DEV = { config ->
-        echo 'THIS IS MASTER'
         doCompile(config)
         doUT(config)
         doPackage(config)
