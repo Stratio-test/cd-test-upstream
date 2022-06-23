@@ -3,8 +3,8 @@
 hose {
     EMAIL = 'cd'
     BUILDTOOLVERSION = '3.5.0'
-    NEW_VERSIONING = true
-    FREESTYLE_BRANCHING = true
+    VERSIONING_TYPE = 'stratoiVersion-3-3'
+    UPSTREAM_VERESION = '2.2.0'
 
     DEV = { config ->
         echo 'THIS IS MASTER'
