@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.2.0_0.1.0-0.4.5 (upcoming)
+## 2.2.0_0.1.0-0.4.5 (2022-06-24)
 
 * New upstream versioning type
 * Test
