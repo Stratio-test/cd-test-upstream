@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>cd-test-upstream-2.2.0</artifactId>
-    <version>0.4.1-${revision}</version>
+    <version>0.4.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <properties>
