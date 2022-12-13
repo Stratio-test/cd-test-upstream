@@ -1,10 +1,14 @@
 # Changelog
 
-## 0.2.0 (upcoming)
+## 0.3.0 (upcoming)
 
-* test2
+* Pending changelog
 
 ## Previous development
+
+### Branched to branch-0.2 (2022-12-13)
+
+* test2
 
 ### Branched to branch-0.1 (2022-12-12)
 
