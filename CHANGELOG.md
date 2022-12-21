@@ -1,10 +1,14 @@
 # Changelog
 
-## 0.3.0 (upcoming)
+## 0.4.0 (upcoming)
 
-* Cosiiiiitas te da la vida
+* Pending changelog
 
 ## Previous development
+
+### Branched to branch-0.3 (2022-12-21)
+
+* Cosiiiiitas te da la vida
 
 ### Branched to branch-0.2 (2022-12-13)
 
