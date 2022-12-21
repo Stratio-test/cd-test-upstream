@@ -2,7 +2,7 @@
 
 ## 0.3.0 (upcoming)
 
-* Pending changelog
+* Cosiiiiitas te da la vida
 
 ## Previous development
 
