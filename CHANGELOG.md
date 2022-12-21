@@ -3,6 +3,7 @@
 ## 0.3.0 (2022-12-21)
 
 * Cosiiiiitas te da la vida
+* Overwritten cositas
 
 ## Previous development
 
