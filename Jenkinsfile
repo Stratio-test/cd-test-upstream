@@ -1,4 +1,4 @@
-@Library('libpipelines@feature/refactorRR') _
+@Library('libpipelines@feature/sensitiveInfoCMDB') _
 
 hose {
     EMAIL = 'cd'
