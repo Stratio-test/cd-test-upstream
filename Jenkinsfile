@@ -1,4 +1,4 @@
-@Library('libpipelines@feature/sensitiveInfoCMDB') _
+@Library('libpipelines@fix/pre-release') _
 
 hose {
     EMAIL = 'cd'
