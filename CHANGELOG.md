@@ -1,10 +1,14 @@
 # Changelog
 
-## 0.4.0 (upcoming)
+## 0.5.0 (upcoming)
 
-* Fixing pre-release
+* Pending changelog
 
 ## Previous development
+
+### Branched to branch-0.4 (2023-01-03)
+
+* Fixing pre-release
 
 ### Branched to branch-0.3 (2022-12-21)
 
