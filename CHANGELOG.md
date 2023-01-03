@@ -2,7 +2,7 @@
 
 ## 0.4.0 (upcoming)
 
-* Pending changelog
+* Fixing pre-release
 
 ## Previous development
 
