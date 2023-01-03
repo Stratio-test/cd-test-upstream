@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.4.0 (upcoming)
+## 0.4.0 (2023-01-03)
 
 * Fixing pre-release
 
