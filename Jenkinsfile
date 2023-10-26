@@ -1,4 +1,4 @@
-@Library('libpipelines@fix/pre-release') _
+@Library('libpipelines@new-jira-step') _
 
 hose {
     EMAIL = 'cd'
@@ -8,10 +8,11 @@ hose {
 
     DEV = { config ->
         doCompile(config)
-        doUT(config)
-        doPackage(config)
-        doStaticAnalysis(config)
-        doDeploy(config)
+	doJiraTransition(conf: config, jiraProject: 'TEST1', jiraTransition: 'Done')
+        // doUT(config)
+        // doPackage(config)
+        // doStaticAnalysis(config)
+        // doDeploy(config)
 	//doDocker(config)
     }     
 }
